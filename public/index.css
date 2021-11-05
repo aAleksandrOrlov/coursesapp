@@ -1,0 +1,63 @@
+.nav-wrapper {
+  padding: 0 2rem;
+}
+
+.price {
+  font-size: 1.5rem;
+}
+
+.price.big {
+  font-size: 3rem;
+}
+
+.price.small {
+  font-size: 1rem;
+}
+
+.course {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.author {
+  font-size: 1rem;
+  color: #aaa;
+}
+
+.course h1 {
+  margin-bottom: 2rem;
+}
+
+.course img {
+  max-width: 600px;
+  height: auto;
+}
+
+.action {
+  display: flex;
+  align-items: center;
+}
+
+.action form {
+  margin-bottom: 0;
+  margin-left: auto;
+}
+
+.tabs {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.alert {
+  color: crimson;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.avatar {
+  border-radius: 50%;
+  max-width: 80%;
+  margin: 0 auto;
+}
