@@ -18,4 +18,4 @@ Runs the app on setted port.
 
 ### `npm run dev`
 
-Run the app by nodemon with auto reload server.
+Runs the app by nodemon with auto reload server.
